@@ -6,4 +6,4 @@
 - 💬 Ask me about **JavaScript, Node.js, and API Integrations**
 - 📫 Reach me at: **@Dev_Null_X (Telegram)**
 
-![Dev_Null_X Stats]([https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight](https://github.com/Dev-Null-X/Dev-Null-X))
+![Dev_Null_X Stats]([https://github.com/Dev-Null-X](https://github.com/Dev-Null-X/Dev-Null-X))
